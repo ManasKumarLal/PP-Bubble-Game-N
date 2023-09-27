@@ -118,5 +118,26 @@ html,body{
         top: 0px;
         left: 0px;
         right: 0px;
+        gap: 10vw;
+        height: 19vw;
+    }
+    .elem{
+        gap:2vw
+    }
+    .elem h2{
+        font-size: 4.5vw;
+    }
+    .box{
+        height: 10vw;
+        width: 10vw;
+        font-size: 5vw;
+    }
+    .pbtm{
+        padding-top: 20px;
+        height: calc(100% - 19vh);
+    }
+    .bubble{
+        height: 11vw;
+        width: 11vw;
     }
 }
